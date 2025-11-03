@@ -5,7 +5,7 @@ Aplikasi contoh sederhana menggunakan Flutter untuk latihan membuat aplikasi mob
 ## 📱 Preview Aplikasi
 
 <div align="center">
-  <img src="assets/screenshots/Screenshot 2025-11-03 at 17.42.19.pngScreenshot 2025-11-03 at 17.42.19.png" width="300px"/>
+  <img src="assets/screenshots/Screenshot 2025-11-03 at 17.42.19.png" width="300px"/>
 </div>
 
 ## ✨ Fitur
