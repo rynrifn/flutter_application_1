@@ -36,5 +36,3 @@ assets/
 flutter pub get
 flutter run
 
-👨‍💻 Dibuat oleh
-**Rifki Febrian**
