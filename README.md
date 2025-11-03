@@ -1,16 +1,40 @@
-# flutter_application_1
+# Flutter Demo App 🚀
 
-A new Flutter project.
+Aplikasi contoh sederhana menggunakan Flutter untuk latihan membuat aplikasi mobile cross-platform (Android & iOS).
 
-## Getting Started
+## 📱 Preview Aplikasi
 
-This project is a starting point for a Flutter application.
+<div align="center">
+  <img src="assets/screenshots/Screenshot 2025-11-03 at 17.42.19.pngScreenshot 2025-11-03 at 17.42.19.png" width="300px"/>
+</div>
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Fitur
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Tampilan UI dasar Flutter
+- Struktur folder Flutter standar
+- Navigasi sederhana
+- Hot reload untuk pengembangan cepat
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Teknologi
+
+| Teknologi | Deskripsi |
+|----------|-----------|
+| Flutter  | Framework UI |
+| Dart     | Bahasa pemrograman |
+| Android Studio / VSCode | IDE |
+
+## 📂 Struktur Project
+
+lib/
+└── main.dart
+assets/
+└── screenshots/
+
+## 🚀 Cara Menjalankan
+
+```bash
+flutter pub get
+flutter run
+
+👨‍💻 Dibuat oleh
+**Rifki Febrian**
